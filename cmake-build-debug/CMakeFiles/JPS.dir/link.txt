@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/JPS.dir/JPS.cpp.o -o JPS 
