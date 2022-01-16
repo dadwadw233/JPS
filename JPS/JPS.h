@@ -19,16 +19,16 @@ class JPS{
 
   struct point{
     std::pair<int, int>loc;
-    int G;
-    int H;
-    int F;
+    int G = 0;
+    int H = 0;
+    int F = 0;
   };
 
   std::mutex searchMutex;
-  static std::vector<point>map[MAPSIZE];
-  static std::vector<point>openList[MAPSIZE];
-  static std::vector<point>closeList[MAPSIZE];
-  static std::vector<point>path[MAPSIZE];
+  static std::vector<point>map;
+  static std::vector<point>openList;
+  static std::vector<point>closeList;
+  static std::vector<point>path;
 
   void initMap(const int x, const int y)const;
 
