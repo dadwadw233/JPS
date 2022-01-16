@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = 
+CXX_INCLUDES = -I/home/yyh/JPS_/JPS/JPS/include -I/home/yyh/JPS_/JPS/JPS/src
 
 CXX_FLAGS = -g -std=gnu++14
 
