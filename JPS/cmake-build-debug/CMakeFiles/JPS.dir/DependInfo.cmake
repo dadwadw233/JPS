@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/yyh/JPS_/JPS/JPS/JPS.cpp" "/home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles/JPS.dir/JPS.cpp.o"
+  "/home/yyh/JPS_/JPS/JPS/main.cpp" "/home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles/JPS.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

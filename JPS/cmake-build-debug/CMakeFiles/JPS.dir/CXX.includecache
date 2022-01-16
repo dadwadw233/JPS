@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yyh/JPS_/JPS/JPS/JPS.cpp
+JPS.h
+/home/yyh/JPS_/JPS/JPS/JPS.h
+
+/home/yyh/JPS_/JPS/JPS/JPS.h
+iostream
+-
+mutex
+-
+vector
+-
+chrono
+-
+
+/home/yyh/JPS_/JPS/JPS/main.cpp
+JPS.h
+/home/yyh/JPS_/JPS/JPS/JPS.h
+

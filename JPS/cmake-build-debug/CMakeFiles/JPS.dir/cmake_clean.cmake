@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/JPS.dir/JPS.cpp.o"
+  "CMakeFiles/JPS.dir/main.cpp.o"
   "JPS"
   "JPS.pdb"
 )

@@ -93,12 +93,12 @@ clean: CMakeFiles/JPS.dir/clean
 CMakeFiles/JPS.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/JPS.dir/build.make CMakeFiles/JPS.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/JPS.dir/build.make CMakeFiles/JPS.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target JPS"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target JPS"
 .PHONY : CMakeFiles/JPS.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/JPS.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/JPS.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/yyh/JPS_/JPS/JPS/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/JPS.dir/rule

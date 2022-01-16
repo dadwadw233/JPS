@@ -94,6 +94,9 @@
 		<Unit filename="/home/yyh/JPS_/JPS/JPS/JPS.h">
 			<Option target="JPS"/>
 		</Unit>
+		<Unit filename="/home/yyh/JPS_/JPS/JPS/main.cpp">
+			<Option target="JPS"/>
+		</Unit>
 		<Unit filename="/home/yyh/JPS_/JPS/JPS/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
